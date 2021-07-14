@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm T Praveen</h1>
 <h3 align="center">I am a Tech Enthusiast , who is very keen in adapting and transforming advancements.</h3>
+<h4 align="center">I am coachable person who is very hunger to learn new things .</h4>
+<h4 align="center">Passionate to work , Passionate about life . </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-praveen&label=Profile%20views&color=0e75b6&style=flat" alt="t-praveen" /> </p>
 
